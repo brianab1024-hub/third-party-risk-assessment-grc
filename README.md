@@ -14,6 +14,11 @@
 🛠️ Tools Used
 Google Drive | Excel | GitHub | JIRA (simulated)  
 
+- [Risk Register (Google Sheet)]
+- (https://docs.google.com/spreadsheets/d/17Efw0ilGYIA2syugNZqsNSmRu29hpCXltRPnfLMYnW8/edit?usp=drive_link)
+- [Risk Assessment Report (Google Doc)
+- (https://docs.google.com/document/d/19lCtsFn_O0-439yG7Gut3KGwGdbUiHl9enDt_k41rpI/edit?usp=drive_link)
+
 
  🔍 Summary
  The purpose of this project is to showcase my ability to identify, document, and mitigate vendor-related risks through compliance frameworks and structured documentation. This hands-on case study demonstrates the intersection of **governance, risk, and compliance (GRC)** in a practical setting.
