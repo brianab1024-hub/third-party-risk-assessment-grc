@@ -1,4 +1,4 @@
-# third-party-risk-assessment-grc
+# Third-Party-Risk-Assessment-grc
 **Author:** Briana Bellamy  
 **Objective:**  This project simulates a third-party risk and compliance assessment for a hypothetical vendor, evaluating potential security and governance risks using frameworks such as **NIST 800-53** and **ISO 27001**.
 
