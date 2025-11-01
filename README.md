@@ -2,6 +2,20 @@
 **Author:** Briana Bellamy  
 **Objective:**  This project simulates a third-party risk and compliance assessment for a hypothetical vendor, evaluating potential security and governance risks using frameworks such as **NIST 800-53** and **ISO 27001**.
 
+Third-Party Risk & Compliance Assessment (GRC Case Study)
+This project is a hands-on case study simulating a Third-Party Risk Management (TPRM) and Governance, Risk, and Compliance (GRC) assessment for a hypothetical vendor, SignalCom Systems.
+
+
+Key Purpose: To evaluate the vendor’s security posture against industry benchmarks and client requirements, specifically focusing on its role as a critical subcontractor providing components for secure tactical communication systems (JNN/STT) to Maranium Solutions.
+
+I demonstrated my ability to identify, document, and mitigate vendor-related risks using established compliance frameworks, including NIST Special Publication 800-53 and ISO/IEC 27001.
+
+
+Key Deliverables: * Risk Register: Documenting and rating risks (e.g., lack of MFA, missing IR policy) and defining mitigation strategies. * Risk Assessment Report: Providing a summary of findings and specific, actionable recommendations to bring the vendor into compliance.
+
+
+This case study highlights the intersection of security controls, compliance mandates, and vendor management in a practical, enterprise setting.
+
 
 🧠 Skills Demonstrated
 - Third-Party Risk Management  
